@@ -1,6 +1,6 @@
 # Applepie (jeu du pendu)
 
-#Présentation du Projet :
+##Présentation du Projet :
 
 Ce projet propose une variante amusante du jeu classique du pendu, remplaçant la figure du pendu par des tartes aux pommes. L'objectif est de deviner le mot caché tout en évitant de faire tomber toutes les tartes.
 
